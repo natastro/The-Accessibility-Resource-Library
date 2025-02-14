@@ -15,7 +15,6 @@
 - [Creating Accessible UI Animations](https://www.smashingmagazine.com/2023/11/creating-accessible-ui-animations/)
 - [🎥 CSUN Assistive Technology Conference Keynote Address by Haben Girma](https://www.youtube.com/watch?v=WW7erYVOej4&t=2044s)
 - [Deceptive Patterns (aka Dark Patterns)](https://www.deceptive.design/)
-- [Disability often neglected in medical school curricula, new study finds](https://www.eurekalert.org/news-releases/1070673)
 - [Don’t Alienate Your User: A Primer for Internationalisation & Localisation](https://prototypr.io/post/dont-alienate-your-user-a-primer-for-internationalisation-localisation/)
 - [Don’t Override Screen Reader Pronunciation](https://adrianroselli.com/2023/04/dont-override-screen-reader-pronunciation.html)
 - [Dungeons & Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
