@@ -38,6 +38,7 @@
 - [Consider accessibility when using horizontally scrollable regions in webpages and apps](https://cerovac.com/a11y/2024/02/consider-accessibility-when-using-horizontally-scrollable-regions-in-webpages-and-apps/)
 - [Contrast (Minimum) - Low Vision Accessibility Task Force](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_(Minimum))
 - [Contrast Ratio: Easily calculate color contrast ratios. Passing WCAG was never this easy!](https://contrast-ratio.com/)
+- [Dear 3rd party vendor: How to check 3rd party vendors for accessibility plus an email template](https://blog.pope.tech/2024/09/02/check-3rd-party-vendors-for-accessibility/)
 - [Decoding WCAG 1.4.11 Non-text Contrast – Part 1](https://www.barrierbreak.com/decoding-wcag-1-4-11-non-text-contrast/)
 - [Decoding WCAG 1.4.11 Non-text Contrast – Part 2 ](https://www.barrierbreak.com/decoding-wcag-1-4-11-non-text-contrast-part-2/)
 - [Digital accessibility portal: Criteria and tests](https://accessibilite.public.lu/en/raam1/referentiel-technique.html)
