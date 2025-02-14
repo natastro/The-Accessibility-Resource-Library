@@ -15,6 +15,7 @@
 - [Course List - Digital Accessibility Education, Training, and Certification](https://www.w3.org/WAI/courses/list/)
 - [Deque University: Web Accessibility Training and Courses](https://dequeuniversity.com/)
 - [Digital Accessibility Courses Roundup • Digital A11Y](https://www.digitala11y.com/digital-accessibility-courses-roundup/)
+- [Disability Language Style Guide | National Center on Disability and Journalism](https://ncdj.org/style-guide/)
 - [Get Started with Web Accessibility | Salesforce Trailhead](https://trailhead.salesforce.com/en/content/learn/trails/get-started-with-web-accessibility)
 - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 - [Learn Accessibility](https://web.dev/learn/accessibility/)
