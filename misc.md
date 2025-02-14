@@ -14,7 +14,6 @@
 - [Building inclusive products for trans people](https://uxdesign.cc/building-inclusive-products-for-trans-people-2b60981972e)
 - [Creating Accessible UI Animations](https://www.smashingmagazine.com/2023/11/creating-accessible-ui-animations/)
 - [🎥 CSUN Assistive Technology Conference Keynote Address by Haben Girma](https://www.youtube.com/watch?v=WW7erYVOej4&t=2044s)
-- [Dear 3rd party vendor: How to check 3rd party vendors for accessibility plus an email template](https://blog.pope.tech/2024/09/02/check-3rd-party-vendors-for-accessibility/)
 - [Deceptive Patterns (aka Dark Patterns)](https://www.deceptive.design/)
 - [Disability community has long wrestled with ‘helpful’ technologies – lessons for everyone in dealing with AI](https://theconversation.com/disability-community-has-long-wrestled-with-helpful-technologies-lessons-for-everyone-in-dealing-with-ai-227979)
 - [Disability Language Style Guide | National Center on Disability and Journalism](https://ncdj.org/style-guide/)
