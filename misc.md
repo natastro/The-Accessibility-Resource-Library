@@ -18,7 +18,6 @@
 - [Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/)
 - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 - [Fleeing the LA fires alone on a wheelchair: ‘I had to take my chances’](https://www.theguardian.com/us-news/2025/jan/10/fleeing-california-wildfires-los-angeles)
-- [Furiosa and the Disability Wasteland](https://reactormag.com/furiosa-and-the-disability-wasteland/)
 - [Glossary of Accessibility Terms](https://www.a11yquest.com/guides/principles/glossary/index.html)
 - [Going with the PDF Reflow](https://www.tpgi.com/going-with-the-pdf-reflow/)
 - [Ham biscuit on – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/ham-biscuit-on/)
