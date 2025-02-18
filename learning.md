@@ -17,6 +17,7 @@
 - [Digital Accessibility Courses Roundup • Digital A11Y](https://www.digitala11y.com/digital-accessibility-courses-roundup/)
 - [Disability Language Style Guide | National Center on Disability and Journalism](https://ncdj.org/style-guide/)
 - [Get Started with Web Accessibility | Salesforce Trailhead](https://trailhead.salesforce.com/en/content/learn/trails/get-started-with-web-accessibility)
+- [Glossary of Accessibility Terms](https://www.a11yquest.com/guides/principles/glossary/index.html)
 - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 - [Learn Accessibility](https://web.dev/learn/accessibility/)
 - [mgifford/a11y-courses: Courses offered in web accessibility (and other learning opportunities)](https://github.com/mgifford/a11y-courses)
