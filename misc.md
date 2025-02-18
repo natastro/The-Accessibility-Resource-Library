@@ -19,7 +19,6 @@
 - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 - [Fleeing the LA fires alone on a wheelchair: ‘I had to take my chances’](https://www.theguardian.com/us-news/2025/jan/10/fleeing-california-wildfires-los-angeles)
 - [Hot in Here: Heat Waves, Climate Change, and Disability](https://a11ysavvy.com/2024/06/19/hot-in-here-heat-waves-climate-change-and-disability/)
-- [How artificial intelligence is helping ALS patients preserve their voices](https://www.cbsnews.com/news/artificial-intelligence-als-patients-preserve-voice-lou-gehrigs-disease/)
 - [How to Be a Disability Ally](https://meryl.net/disability-ally/)
 - [How to check and fix PDF accessibility issues](https://blog.pope.tech/2024/04/25/how-to-check-and-fix-pdf-accessibility-issues/)
 - [🎥 How to create truly accessible forms with Caroline Jarrett](https://www.youtube.com/watch?v=y0RGA0eTYL0)
