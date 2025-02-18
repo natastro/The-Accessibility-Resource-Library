@@ -9,3 +9,4 @@
 - [Alternative text in the wild: 5 alternative text examples](https://blog.pope.tech/2023/03/31/alternative-text-in-the-wild-5-alternative-text-examples/)
 - [An Alt Text Refresher For Software Developers | Built In](https://builtin.com/software-engineering-perspectives/alt-text-for-developers)
 - [Are you making these five mistakes when writing alt text?](https://www.a11yproject.com/posts/are-you-making-these-five-mistakes-when-writing-alt-text/)
+- [Dungeons & Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
