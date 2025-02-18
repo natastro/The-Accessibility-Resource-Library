@@ -18,7 +18,6 @@
 - [Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/)
 - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 - [Fleeing the LA fires alone on a wheelchair: ‘I had to take my chances’](https://www.theguardian.com/us-news/2025/jan/10/fleeing-california-wildfires-los-angeles)
-- [Ham biscuit on – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/ham-biscuit-on/)
 - [Handling Death Gracefully in Digital Experiences](https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/)
 - [Home - A11yBy - Accessibility #A11yBy](https://a11yby.com/)
 - [Hot in Here: Heat Waves, Climate Change, and Disability](https://a11ysavvy.com/2024/06/19/hot-in-here-heat-waves-climate-change-and-disability/)
@@ -140,4 +139,5 @@
 - [#CriticalAxis: a community driven project from The Disabled List](https://www.criticalaxis.org/)
 
 <!--- - [DeafBlind communities may be creating a new language of touch ](https://www.newyorker.com/culture/annals-of-inquiry/deafblind-communities-may-be-creating-a-new-language-of-touch) NEED TO LOGIN OR PAY FOR NEW YORKER
-- [Don’t Use Web•dev for Accessibility Info](https://adrianroselli.com/2024/07/dont-use-webdev-for-accessibility-info.html)--->
+- [Don’t Use Web•dev for Accessibility Info](https://adrianroselli.com/2024/07/dont-use-webdev-for-accessibility-info.html)
+- [Ham biscuit on – Eric Bailey (ericwbailey.design)](https://ericwbailey.design/writing/ham-biscuit-on/)--->
