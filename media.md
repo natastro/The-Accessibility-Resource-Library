@@ -5,6 +5,10 @@
 
 ---
 
+## Movies
+
+- [Furiosa and the Disability Wasteland](https://reactormag.com/furiosa-and-the-disability-wasteland/)
+
 ## Music
 
 - [🎥 ASL & Hip-Hop: Music is for Everyone](https://www.youtube.com/watch?app=desktop&v=FOZbMcmQvJ0)
