@@ -19,6 +19,7 @@
 - [Get Started with Web Accessibility | Salesforce Trailhead](https://trailhead.salesforce.com/en/content/learn/trails/get-started-with-web-accessibility)
 - [Glossary of Accessibility Terms](https://www.a11yquest.com/guides/principles/glossary/index.html)
 - [How To Talk About Autism Respectfully](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/how-to-talk-about-autism-respectfully-84?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)
+- [How to talk about disability sensitively and avoid ableist tropes](https://www.npr.org/2022/08/08/1115682836/how-to-talk-about-disability-sensitively-and-avoid-ableist-tropes)
 - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 - [Learn Accessibility](https://web.dev/learn/accessibility/)
 - [mgifford/a11y-courses: Courses offered in web accessibility (and other learning opportunities)](https://github.com/mgifford/a11y-courses)
