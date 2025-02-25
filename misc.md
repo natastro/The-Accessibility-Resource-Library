@@ -1,7 +1,6 @@
 # Miscellaneous
 
 - [6 Questions for Eric Eggert](https://frontenddogma.com/posts/2025/6-questions-for-eric-eggert/)
-- [3D Model Accessibility](https://scottvinkle.me/blogs/work/3d-model-accessibility)
 - [The A11Y Project: Home](https://a11yproject.com/)
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
 - [Accessibility Advocates Oppose Disability Simulations](https://meetings.skift.com/accessibility-advocates-oppose-disability-simulations/)
@@ -21,7 +20,6 @@
 - [How to Be a Disability Ally](https://meryl.net/disability-ally/)
 - [How to Make Your Website Accessible for People Who Are Deaf](https://equalizedigital.com/make-your-website-accessible-for-deaf/?utm_source=A11yWeekly&utm_medium=sponsored)
 - [How will Long-Covid Change the UX Accessibility Landscape? | by Gareth Ford Williams | Jul, 2021 | UX Collective](https://uxdesign.cc/how-will-long-covid-change-the-ux-accessibility-landscape-9ac2a2909168)
-- [Inclusive XR: accessible 3D experiences](https://tetralogical.com/blog/2023/01/20/inclusive-xr-accessible-3d-experiences/)
 - [Innovation without barriers](https://github.com/readme/podcast/accessible-software-development)
 - [Introducing inert](https://developer.chrome.com/blog/inert/)
 - [It needs to map back to a role](https://ericwbailey.design/writing/it-needs-to-map-back-to-a-role/)
