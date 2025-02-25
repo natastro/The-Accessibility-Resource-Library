@@ -11,3 +11,5 @@
 - [contrast-color() is a good thing, but also solving the problem at the wrong layer](https://ericwbailey.website/published/contrast-color-is-a-good-thing-but-also-solving-the-problem-at-the-wrong-layer/)
 - [Don’t Wrap Figure in a Link](https://adrianroselli.com/2025/01/dont-wrap-figure-in-a-link.html)
 - [Foundations: grouping forms with fieldset and legend](https://tetralogical.com/blog/2025/01/31/foundations-fieldset-and-legend/)
+- [HTML Roving tabindex Attribute Explained with Examples](https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/)
+- [HTML semantics](https://gomakethings.com/html-semantics/)
