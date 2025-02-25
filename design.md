@@ -56,6 +56,7 @@
 - [How to check and document design accessibility in your mockups](https://stephaniewalter.design/blog/how-to-check-and-document-design-accessibility-in-your-figma-mockups/)
 - [🎥 How to create truly accessible forms with Caroline Jarrett](https://www.youtube.com/watch?v=y0RGA0eTYL0)
 - [How to Design Voice-Controlled Smart Devices for Blind People | Fable](https://makeitfable.com/article/how-to-design-voice-controlled-smart-devices-for-blind-people/)
+- [How to make external links accessible](https://blog.pope.tech/2024/01/02/how-to-make-external-links-accessible/)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - [Intro to colour contrast](https://goodpractices.design/articles/colour-contrast)
 - [Make sure that your design system is accessible](https://cerovac.com/a11y/2024/04/make-sure-that-your-design-system-is-accessible/)
