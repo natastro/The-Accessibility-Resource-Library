@@ -21,8 +21,6 @@
 - [How to Be a Disability Ally](https://meryl.net/disability-ally/)
 - [How to Make Your Website Accessible for People Who Are Deaf](https://equalizedigital.com/make-your-website-accessible-for-deaf/?utm_source=A11yWeekly&utm_medium=sponsored)
 - [How will Long-Covid Change the UX Accessibility Landscape? | by Gareth Ford Williams | Jul, 2021 | UX Collective](https://uxdesign.cc/how-will-long-covid-change-the-ux-accessibility-landscape-9ac2a2909168)
-- [HTML Roving tabindex Attribute Explained with Examples](https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/)
-- [HTML semantics](https://gomakethings.com/html-semantics/)
 - [Inclusive XR: accessible 3D experiences](https://tetralogical.com/blog/2023/01/20/inclusive-xr-accessible-3d-experiences/)
 - [Innovation without barriers](https://github.com/readme/podcast/accessible-software-development)
 - [Introducing inert](https://developer.chrome.com/blog/inert/)
