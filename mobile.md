@@ -11,6 +11,7 @@
 - [Accessible Mobile Apps Weekly](https://accessible-mobile-apps-weekly.ghost.io/)
 - [Action sheets - Presentation - Components - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/components/presentation/action-sheets/)
 - [All components - Components - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/components/all-components)
+- [Android 16's Transition to Adaptive Apps: A Major Victory for Accessibility](https://www.accesstime.co/blog/android-16-upgrade)
 - [Android Accessibility: A Developers Guide](https://dev.to/steady5063/android-accessibility-a-developers-guide-1n0m)
 - [Android Accessibility: Labels and Hints](https://qbalsdon.github.io/android,/labels,/hints,/accessibility,/robust/2022/07/20/labels-and-hints.html)
 - [Android accessibility: roles and TalkBack](https://tetralogical.com/blog/2022/07/07/android-accessibility-roles-and-talkback/)
