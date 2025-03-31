@@ -37,6 +37,7 @@
 - [Creating accessible digital colour palettes using the 60-30-10 design rule](https://www.visionaustralia.org/business-consulting/digital-access/Creating-accessible-digital-colour-palettes-60-30-10-design-rule)
 - [CSS-based Bar Chart](https://haltersweb.github.io/Accessibility/barchart.html)
 - [Design system breakdown: checkbox & radio](https://uxdesign.cc/design-system-breakdown-checkbox-radio-7d8a389b0e85)
+- [Designers, your excuse is gone. Stunning, animated and accessible. Yes, you can!](https://annebovelett.eu/designers-your-excuse-is-gone-stunning-animated-and-accessible-yes-you-can/)
 - [Designing Accessible Color Palettes in Figma: A Guide for Web Accessibility](https://knowbility.org/blog/2024/designing-accessible-color-palettes-in-figma-2024)
 - [🎥 Designing Accessible Typefaces with Eleni Beveratou](https://www.youtube.com/watch?v=oaj7aItkj14&list=TLPQMDcwNDIwMjTn2UFDiTBC8Q&index=4)
 - [Designing and Coding for Voice](https://www.briandeconinck.com/designing-coding-voice/)
