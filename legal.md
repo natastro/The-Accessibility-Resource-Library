@@ -13,6 +13,7 @@
 - [Best Practices for EU Web Accessibility Compliance Monitoring ](https://www.a11y-collective.com/blog/eu-web-accessibility-directive/)
 - [Blind people, advocates slam company claiming to make websites ADA compliant (nbcnews.com)](https://www.nbcnews.com/tech/innovation/blind-people-advocates-slam-company-claiming-make-websites-ada-compliant-n1266720)
 - [Churches Don’t Have to Be Accessible. That’s Bad News for Voters.](https://www.motherjones.com/politics/2024/04/churches-polling-places-ada-inaccessible-disability-voting-rights/)
+- [Citing Trump order, Justice Department cuts disability guidance for businesses](https://www.usatoday.com/story/money/2025/03/20/trump-justice-department-eliminates-disability-guidance/82550992007/)
 - [Decoding Digital Accessibility Lawsuits 2023: Key Trends & Insights](https://blog.usablenet.com/decoding-digital-accessibility-lawsuits-in-2023-key-trends-strategic-insights)
 - [DOJ ISSUES FINAL TITLE II WEB ACCESSIBILITY RULE](https://convergeaccessibility.com/2024/04/08/final_title_ii_rule/)
 - [European Accessibility Act (EAA) – Kiosks, touch screens and physical devices](https://axesslab.com/ict-a11y-eu/)
