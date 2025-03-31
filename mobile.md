@@ -1,5 +1,10 @@
 # Mobile Accessibility
 
+> ## Emoji Key
+> 🎥 Video Camera Emoji means this link contains a video
+
+---
+
 - [8 new accessibility updates across Lookout, Google Maps and more](https://blog.google/outreach-initiatives/accessibility/ai-accessibility-update-gaad-2024/)
 - [Accessibility modifiers | Apple Developer Documentation](https://developer.apple.com/documentation/swiftui/view-accessibility)
 - [accessibilityViewIsModal | Apple Developer Documentation](https://developer.apple.com/documentation/objectivec/nsobject/1615089-accessibilityviewismodal)
@@ -53,6 +58,7 @@
 - [Sliders - Material Design 3](https://m3.material.io/components/sliders/overview)
 - [🎥 Switch Access for developers - Accessibility on Android](https://www.youtube.com/watch?v=tLIUaZyTtX4)
 - [Text resizing in iOS and Android](https://www.a11yproject.com/posts/text-resizing-in-ios-and-android/)
+- [🎥 The State of Mobile App Accessibility in 2025 with Mark Steadman and Ben Ogilvie](https://www.youtube.com/watch?v=RCVIOPTx7GM)
 - [Top 5 iOS Mobile App Accessibility Issues Pt 1.](https://dev.to/steady5063/top-5-ios-mobile-app-accessibility-issues-pt-1-51g8)
 - [Traits of a good accessible iOS app](https://levelup.gitconnected.com/traits-of-a-good-accessible-ios-app-25266ee08fb9)
 - [Use Switch Control to navigate your iPhone, iPad, or iPod touch](https://support.apple.com/en-us/HT201370)
