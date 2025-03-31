@@ -1,5 +1,10 @@
 # Legal
 
+> ## Emoji Key
+> 🎥 Video Camera Emoji means this link contains a video
+
+---
+
 - [#FACILiti Will Get You Sued](https://adrianroselli.com/2022/03/faciliti-will-get-you-sued.html)
 - [#UserWay Will Get You Sued](https://adrianroselli.com/2021/09/userway-will-get-you-sued.html#LevelAccessBuysUserWay)
 - [Accessibility Advocates Sued by French Overlay Company](https://equalentry.com/accessibility-advocates-sued-by-french-overlay-company/)
@@ -19,6 +24,7 @@
 - [DOJ ISSUES FINAL TITLE II WEB ACCESSIBILITY RULE](https://convergeaccessibility.com/2024/04/08/final_title_ii_rule/)
 - [European Accessibility Act (EAA) – Kiosks, touch screens and physical devices](https://axesslab.com/ict-a11y-eu/)
 - [European Accessibility Act (EAA) – What you need to know](https://axesslab.com/european-accessibility-act-eaa-what-you-need-to-know/)
+- [🎥 Featured Presentation: Digital Accessibility Legal Update: US](https://www.youtube.com/watch?v=fQyWH3DiD9s)
 - [Government not meeting minimum accessibility standards on federal websites, GSA report finds](https://fedscoop.com/government-accessibility-standards-websites-gsa-report/)
 - [Health and Human Services Issues Rule to Prevent Disability Discrimination](https://equalentry.com/disability-discrimination-hhs/)
 - [Hotel Accessibility Class Action Lawsuit](https://equalentry.com/accessibility-hotel-class-action-lawsuit/)
