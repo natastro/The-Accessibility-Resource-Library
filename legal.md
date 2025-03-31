@@ -62,6 +62,7 @@
 - [Trump's DEI orders may halt progress for disabled workers](https://www.axios.com/2025/01/24/dei-orders-disabled-workers-telework)
 - [Trump’s Executive Orders Rolling Back DEI and Accessibility Efforts, Explained ](https://www.aclu.org/news/racial-justice/trumps-executive-orders-rolling-back-dei-and-accessibility-efforts-explained)
 - [U.S. Federal Appeals Court Slams Unethical ADA Practice - Law Office of Lainey Feingold](https://www.lflegal.com/2021/08/eleventh-circuit-ethics/)
+- [Understanding the European Accessibility Act (EAA)](https://tetralogical.com/blog/2025/03/19/understanding-the-eaa/)
 - [VPAT Primer: What is a VPAT? | Digital Accessibility Digest (microassist.com)](https://www.microassist.com/digital-accessibility/vpat/)
 - [Website Accessibility Lawsuits Rising Exponentially In 2023 According To Latest Data](https://www.forbes.com/sites/gusalexiou/2023/06/30/website-accessibility-lawsuits-rising-exponentially-in-2023-according-to-latest-data/?sh=2dd9cd8a717f)
 - [Website Accessibility under Title III of the Americans with Disabilities Act](https://www.natlawreview.com/article/navigating-website-accessibility-under-title-iii-americans-disabilities-act)
