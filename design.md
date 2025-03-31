@@ -33,6 +33,7 @@
 - [Colorblind Accessibility Manifesto](https://colorblindaccessibilitymanifesto.com/)
 - [Comic Sans is a good typeface, actually](https://ericwbailey.design/writing/comic-sans-is-a-good-typeface-actually/)
 - [Complex images – An Accessible Graph](https://css-tricks.com/accessible-svgs/#complex-images-an-accessible-graph)
+- [Conducting Accessibility User Testing: Expert Insights](https://www.a11y-collective.com/blog/accessibility-user-testing/)
 - [Creating A High-Contrast Design System With CSS Custom Properties](https://www.smashingmagazine.com/2023/01/creating-high-contrast-design-system-css-custom-properties/)
 - [Creating accessible digital colour palettes using the 60-30-10 design rule](https://www.visionaustralia.org/business-consulting/digital-access/Creating-accessible-digital-colour-palettes-60-30-10-design-rule)
 - [CSS-based Bar Chart](https://haltersweb.github.io/Accessibility/barchart.html)
