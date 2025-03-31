@@ -1,5 +1,12 @@
 # Miscellaneous
 
+> ## Emoji Key
+> 🎧 Headphones Emoji means this link contains a podcast episode
+> 
+> 🎥 Video Camera Emoji means this link contains a video
+
+---
+
 - [6 Questions for Eric Eggert](https://frontenddogma.com/posts/2025/6-questions-for-eric-eggert/)
 - [The A11Y Project: Home](https://a11yproject.com/)
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
@@ -13,6 +20,7 @@
 - [Creating Accessible UI Animations](https://www.smashingmagazine.com/2023/11/creating-accessible-ui-animations/)
 - [🎥 CSUN Assistive Technology Conference Keynote Address by Haben Girma](https://www.youtube.com/watch?v=WW7erYVOej4&t=2044s)
 - [Deceptive Patterns (aka Dark Patterns)](https://www.deceptive.design/)
+- [🎧 DEI Is Not DOA, Part 1](https://voices.berkeley.edu/podcast/dei-not-doa-part-1)
 - [Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/)
 - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 - [Fleeing the LA fires alone on a wheelchair: ‘I had to take my chances’](https://www.theguardian.com/us-news/2025/jan/10/fleeing-california-wildfires-los-angeles)
