@@ -56,6 +56,7 @@
 - [Foundations: pointer gestures](https://tetralogical.com/blog/2023/03/17/foundations-pointer-gestures/)
 - [Headings (new)](https://webaim.org/techniques/headings/)
 - [How I audit](https://melsumner.github.io/how-i-audit)
+- [How navigation should work for keyboard users](https://www.tempertemper.net/blog/how-navigation-should-work-for-keyboard-users)
 - [How screen readers read special characters: an update](https://elevenways.be/en/articles/screenreaders-special-characters)
 - [How to browse the web with the keyboard alone](https://www.tempertemper.net/blog/how-to-browse-the-web-with-the-keyboard-alone)
 - [How to check what item is in focus when accessibility testing &bull; Giovani Camara Blog](https://giovanicamara.com/blog/how-to-check-what-item-is-in-focus-when-accessibility-testing/)
