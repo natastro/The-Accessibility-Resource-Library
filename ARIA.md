@@ -4,6 +4,7 @@
 - [Accessible Description Exposure](https://adrianroselli.com/2022/04/accessible-description-exposure.html)
 - [ARIA in HTML | scottohara.me](https://www.scottohara.me/blog/2021/07/07/aria-in-html.html)
 - [aria-label is a letdown](https://wagtail.org/blog/aria-label-is-a-letdown/)
+- [aria-label requires a valid role](https://gomakethings.com/aria-label-requires-a-valid-role/)
 - [aria-labelledby usage notes](https://html5accessibility.com/stuff/2022/04/03/aria-labelledby-usage-notes/)
 - [Foundations: accessible names and descriptions](https://tetralogical.com/blog/2023/04/05/accessible-names-and-descriptions/)
 - [Foundations: landmarks](https://tetralogical.com/blog/2022/03/18/landmarks/)
