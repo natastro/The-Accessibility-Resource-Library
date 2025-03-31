@@ -9,5 +9,6 @@
 - [Foundations: landmarks](https://tetralogical.com/blog/2022/03/18/landmarks/)
 - [How to Use ARIA Alert Effectively ](https://www.a11y-collective.com/blog/aria-alert/)
 - [Implementing ARIA: Avoid Common Pitfalls and Optimise Performance ](https://www.a11y-collective.com/blog/aria-in-html/)
+- [Implementing aria-describedby for Web Accessibility](https://www.a11y-collective.com/blog/aria-describedby/)
 - [Polite is Often Better Than Being Alerted](https://ozewai.org/blog/technical-articles/polite-is-often-better-than-being-alerted/)
 - [Tooltips are presentational](https://www.tpgi.com/tooltips-are-presentational/)
