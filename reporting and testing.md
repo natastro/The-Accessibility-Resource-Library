@@ -57,6 +57,7 @@
 - [FixA11y — improving accessibility](https://fixa11y.com/)
 - [Foundations: pointer gestures](https://tetralogical.com/blog/2023/03/17/foundations-pointer-gestures/)
 - [Headings (new)](https://webaim.org/techniques/headings/)
+- [How button groups should work for keyboard users](https://www.tempertemper.net/blog/how-button-groups-should-work-for-keyboard-users)
 - [How I audit](https://melsumner.github.io/how-i-audit)
 - [How navigation should work for keyboard users](https://www.tempertemper.net/blog/how-navigation-should-work-for-keyboard-users)
 - [How screen readers read special characters: an update](https://elevenways.be/en/articles/screenreaders-special-characters)
