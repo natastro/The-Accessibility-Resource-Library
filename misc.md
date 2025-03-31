@@ -21,6 +21,7 @@
 - [🎥 CSUN Assistive Technology Conference Keynote Address by Haben Girma](https://www.youtube.com/watch?v=WW7erYVOej4&t=2044s)
 - [Deceptive Patterns (aka Dark Patterns)](https://www.deceptive.design/)
 - [🎧 DEI Is Not DOA, Part 1](https://voices.berkeley.edu/podcast/dei-not-doa-part-1)
+- [Don’t Use Fake Bold or Italic in Social Media](https://adrianroselli.com/2025/03/dont-use-fake-bold-or-italic-in-social-media.html)
 - [Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/)
 - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 - [Fleeing the LA fires alone on a wheelchair: ‘I had to take my chances’](https://www.theguardian.com/us-news/2025/jan/10/fleeing-california-wildfires-los-angeles)
