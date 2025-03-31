@@ -78,6 +78,7 @@
 - [Introduction to Cognitive Disability and Accessibility Testing - TPGi](https://www.tpgi.com/introduction-to-cognitive-disability-and-accessibility-testing/)
 - [Mobile Screen Reader Testing – Scott Vinkle](https://scottvinkle.me/blogs/work/mobile-screen-reader-testing)
 - [Money Talks! Formatting Currency in Web Content](https://www.tpgi.com/money-talks-formatting-currency-in-web-content/)
+- [Myth: Automated tools can ensure full accessibility compliance](https://www.a11yproject.com/posts/automated-tools-can-ensure-full-accessibility-compliance/)
 - [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
 - [Not so short note on aria-label usage – Big Table Edition](https://html5accessibility.com/stuff/2024/05/22/not-so-short-note-on-aria-label-usage-big-table-edition/)
 - [On disabled and aria-disabled attributes](https://kittygiraudel.com/2024/03/29/on-disabled-and-aria-disabled-attributes/)
