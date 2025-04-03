@@ -25,6 +25,7 @@
 - [Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/)
 - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 - [Fleeing the LA fires alone on a wheelchair: ‘I had to take my chances’](https://www.theguardian.com/us-news/2025/jan/10/fleeing-california-wildfires-los-angeles)
+- [Harm reduction principles for digital accessibility practitioners ](https://ericwbailey.website/published/harm-reduction-principles-for-digital-accessibility-practitioners/)
 - [Hot in Here: Heat Waves, Climate Change, and Disability](https://a11ysavvy.com/2024/06/19/hot-in-here-heat-waves-climate-change-and-disability/)
 - [How to Be a Disability Ally](https://meryl.net/disability-ally/)
 - [How to Make Your Website Accessible for People Who Are Deaf](https://equalizedigital.com/make-your-website-accessible-for-deaf/?utm_source=A11yWeekly&utm_medium=sponsored)
