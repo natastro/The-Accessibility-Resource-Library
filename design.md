@@ -22,6 +22,7 @@
 - [Accessible but never boring](https://wise.design/design-at-wise/stories/accessible-but-never-boring-part-2)
 - [Accessible color for design systems just got easier](https://medium.com/@NateBaldwin/accessible-color-for-design-systems-just-got-easier-40e8420a8371)
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
+- [Accessible Color Palette Generator](https://thisisfranciswu.com/enterprise-ui-palette-generator/)
 - [Accessible Colour Palettes](https://www.figma.com/community/file/909176640411029401)
 - [Accessible Design Checklist](https://penpot.app/blog/accessible-design-checklist/)
 - [Accessible Palette: stop using HSL for color systems | Wildbit](https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems)
