@@ -15,6 +15,7 @@
 - [ADA Title II: Urgent digital accessibility requirements for US state and local governments and their third-party vendors](https://www.deque.com/blog/ada-title-ii-urgent-digital-accessibility-requirements-for-us-state-and-local-governments-and-their-third-party-vendors/)
 - [ADA Update: Title II’s Final Rule Clarifies Captioning and Audio Description in Higher Education](https://www.3playmedia.com/blog/ada-update-final-rule-a-clearer-picture-for-captioning-and-audio-description-in-higher-education/)
 - [An introduction to the European Accessibility Act (EAA)](https://www.deque.com/blog/european-accessibility-act-eaa-intro/)
+- [Another Web Access Overlay Company Sued by a Small Business](https://www.lflegal.com/2025/02/userway-overlay-lawsuit/)
 - [April 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/05/01/legal-update-april-2023/)
 - [AudioEye Sues AccessiBe for Patent Infringement – Law Office of Lainey Feingold (lflegal.com)](https://www.lflegal.com/2020/09/audioeye-vs-accessibe/)
 - [Backlash leads Republican attorneys general to declare support for a landmark disability rights law](https://apnews.com/article/disablity-rights-school-services-lawsuit-states-957c1efde041cb8b8107c46e1782e6b0)
