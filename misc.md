@@ -77,6 +77,7 @@
 - [Quick and Small Accessibility](https://bite-sized-a11y.com/)
 - [Quick tip: Everyday Accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-06-14-everyday_accessibility/)
 - [React accessibility resources](https://brucelawson.co.uk/2022/react-accessibility-resources/)
+- [Reimagining Fluid Typography](https://www.oddbird.net/2025/02/12/fluid-type/)
 - [Responsive accessibility using visibility hidden](https://www.scottohara.me//blog/2022/11/07/responsive-accessibility.html)
 - [Rethinking Find-in-Page Accessibility: Making Hidden Text Work for Everyone](https://schepp.dev/posts/rethinking-find-in-page-accessibility-making-hidden-text-work-for-everyone/)
 - [Running usability sessions with assistive technology users: a guide for beginners](https://adhoc.team/2022/11/02/usability-sessions-with-assistive-technology/)
