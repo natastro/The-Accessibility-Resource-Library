@@ -7,6 +7,7 @@
 
 - [#FACILiti Will Get You Sued](https://adrianroselli.com/2022/03/faciliti-will-get-you-sued.html)
 - [#UserWay Will Get You Sued](https://adrianroselli.com/2021/09/userway-will-get-you-sued.html#LevelAccessBuysUserWay)
+- [A Lawsuit Threatens the Disability Protections I’ve Known My Whole Life](https://time.com/7258245/disability-protections-section-504-texas-v-becerra-essay/)
 - [Accessibility Advocates Sued by French Overlay Company](https://equalentry.com/accessibility-advocates-sued-by-french-overlay-company/)
 - [Accessibility Lawsuit Against Sweetgreen](https://equalentry.com/accessibility-lawsuit-against-sweetgreen/)
 - [Accessibility statement for the EAA](https://axesslab.com/accessibility-statement-for-the-eaa/)
