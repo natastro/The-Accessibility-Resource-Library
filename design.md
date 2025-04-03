@@ -26,6 +26,7 @@
 - [Accessible Colour Palettes](https://www.figma.com/community/file/909176640411029401)
 - [Accessible Design Checklist](https://penpot.app/blog/accessible-design-checklist/)
 - [Accessible Palette: stop using HSL for color systems | Wildbit](https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems)
+- [Accessible UX Design: 6 Advanced Techniques to Elevate Your Process](https://www.a11y-collective.com/blog/accessible-ux-design/)
 - [🎥 Adaptive SVGs for Accessibility, Responsiveness and More (with Heather S. Neff) | Some Antics](https://www.youtube.com/watch?v=CiNdH-iVFUs)
 - [Adding A Dyslexia-Friendly Mode To A Website — Smashing Magazine](https://www.smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/)
 - [An intro to designing accessible data visualizations by Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-design/)
