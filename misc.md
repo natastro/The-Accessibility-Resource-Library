@@ -30,6 +30,7 @@
 - [How to Be a Disability Ally](https://meryl.net/disability-ally/)
 - [How to Make Your Website Accessible for People Who Are Deaf](https://equalizedigital.com/make-your-website-accessible-for-deaf/?utm_source=A11yWeekly&utm_medium=sponsored)
 - [How will Long-Covid Change the UX Accessibility Landscape? | by Gareth Ford Williams | Jul, 2021 | UX Collective](https://uxdesign.cc/how-will-long-covid-change-the-ux-accessibility-landscape-9ac2a2909168)
+- [In Defense of Text Labels ](https://www.chrbutler.com/in-defense-of-text-labels)
 - [Innovation without barriers](https://github.com/readme/podcast/accessible-software-development)
 - [Introducing inert](https://developer.chrome.com/blog/inert/)
 - [It needs to map back to a role](https://ericwbailey.design/writing/it-needs-to-map-back-to-a-role/)
