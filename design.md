@@ -69,6 +69,7 @@
 - [Making data visualizations more accessible | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2021/data-visualizations-accessible-blind-1012)
 - [Mental health as a disability: designing for accessibility](https://blogs.microsoft.com/accessibility/mental-health-as-a-disability-designing-for-accessibility/)
 - [Microsoft inclusive design for cognition guidebook (PDF)](https://inclusive.microsoft.design/tools-and-activities/InclusiveDesignForCognitionGuidebook.pdf)
+- [Navigating dyscalculia: Designing with empathy in mind](https://accessibility.blog.gov.uk/2025/03/06/navigating-dyscalculia-designing-with-empathy-in-mind/)
 - [Neurodiversity Design System](https://www.neurodiversity.design/)
 - [🎥 Putting theory into practice: How GitHub uses Figma for its a11y annotation kit and training](https://www.youtube.com/watch?v=bNweRLxWxGA)
 - [Queering design systems thinking](https://www.jovo.design/writing/queer-systems)
