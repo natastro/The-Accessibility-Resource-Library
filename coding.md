@@ -13,3 +13,4 @@
 - [Foundations: grouping forms with fieldset and legend](https://tetralogical.com/blog/2025/01/31/foundations-fieldset-and-legend/)
 - [HTML Roving tabindex Attribute Explained with Examples](https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/)
 - [HTML semantics](https://gomakethings.com/html-semantics/)
+- [Testing 10 JavaScript Frameworks on Their HTML Defaults](https://meiert.com/en/blog/javascript-framework-html-defaults/)
