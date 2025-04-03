@@ -79,6 +79,7 @@
 - [Running usability sessions with assistive technology users: a guide for beginners](https://adhoc.team/2022/11/02/usability-sessions-with-assistive-technology/)
 - [Session timeouts](https://tetralogical.com/blog/2022/03/07/session-timeouts/)
 - [Shift further left with Deque’s axe-linter for VS Code | Deque](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
+- [Skip links: what, why, and how](https://www.tempertemper.net/blog/skip-links-what-why-and-how)
 - [Socks, lies, and accessibility](https://janmaarten.com/gaad-2023/)
 - [Software accessibility for users with Attention Deficit Disorder (ADHD)](https://uxdesign.cc/software-accessibility-for-users-with-attention-deficit-disorder-adhd-f32226e6037c)
 - [State and Local Governments: First Steps Toward Complying with the Americans with Disabilities Act Title II Web and Mobile Application Accessibility Rule](https://www.ada.gov/resources/web-rule-first-steps/)
