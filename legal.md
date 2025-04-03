@@ -16,6 +16,7 @@
 - [An introduction to the European Accessibility Act (EAA)](https://www.deque.com/blog/european-accessibility-act-eaa-intro/)
 - [April 2023 Accessibility Legal Update](https://convergeaccessibility.com/2023/05/01/legal-update-april-2023/)
 - [AudioEye Sues AccessiBe for Patent Infringement – Law Office of Lainey Feingold (lflegal.com)](https://www.lflegal.com/2020/09/audioeye-vs-accessibe/)
+- [Backlash leads Republican attorneys general to declare support for a landmark disability rights law](https://apnews.com/article/disablity-rights-school-services-lawsuit-states-957c1efde041cb8b8107c46e1782e6b0)
 - [Best Practices for EU Web Accessibility Compliance Monitoring ](https://www.a11y-collective.com/blog/eu-web-accessibility-directive/)
 - [Blind people, advocates slam company claiming to make websites ADA compliant (nbcnews.com)](https://www.nbcnews.com/tech/innovation/blind-people-advocates-slam-company-claiming-make-websites-ada-compliant-n1266720)
 - [Churches Don’t Have to Be Accessible. That’s Bad News for Voters.](https://www.motherjones.com/politics/2024/04/churches-polling-places-ada-inaccessible-disability-voting-rights/)
