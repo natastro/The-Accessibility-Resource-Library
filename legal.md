@@ -68,6 +68,7 @@
 - [Trump calls DEI programs 'illegal.' He plans to end them in the federal government](https://www.npr.org/2025/01/23/nx-s1-5271588/trump-dei-diversity-equity-inclusion-federal-workers-government)
 - [Trump's DEI orders may halt progress for disabled workers](https://www.axios.com/2025/01/24/dei-orders-disabled-workers-telework)
 - [Trump’s Executive Orders Rolling Back DEI and Accessibility Efforts, Explained ](https://www.aclu.org/news/racial-justice/trumps-executive-orders-rolling-back-dei-and-accessibility-efforts-explained)
+- [Two Federal Actions Address Disability and Accessibility](https://www.lflegal.com/2025/02/singling-out-disability/)
 - [U.S. Federal Appeals Court Slams Unethical ADA Practice - Law Office of Lainey Feingold](https://www.lflegal.com/2021/08/eleventh-circuit-ethics/)
 - [Understanding the European Accessibility Act (EAA)](https://tetralogical.com/blog/2025/03/19/understanding-the-eaa/)
 - [VPAT Primer: What is a VPAT? | Digital Accessibility Digest (microassist.com)](https://www.microassist.com/digital-accessibility/vpat/)
