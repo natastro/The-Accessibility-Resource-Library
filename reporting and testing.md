@@ -11,6 +11,7 @@
 - [A Complete Guide To Accessibility Tooling — Smashing Magazine](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
 - [A Guide To Accessible Form Validation](https://www.smashingmagazine.com/2023/02/guide-accessible-form-validation/)
 - [A TOOL’S ERRAND](https://html5accessibility.com/stuff/2025/03/24/a-tools-errand/)
+- [A11y 101: 1.3.4 Orientation](https://tarnoff.info/2025/02/24/a11y-101-1-3-4-orientation/)
 - [A11y 101: 1.3.5 Identify Input Purpose](https://tarnoff.info/2025/03/03/a11y-101-1-3-5-identify-input-purpose/)
 - [A11y 101: 1.4.1 Use of Color](https://tarnoff.info/2025/03/10/a11y-101-1-4-1-use-of-color/)
 - [A11y 101: 1.4.2 Audio Control](https://tarnoff.info/2025/03/17/a11y-101-1-4-2-audio-control/)
