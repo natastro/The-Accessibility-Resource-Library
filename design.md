@@ -47,6 +47,7 @@
 - [Designing Accessible Website Navigation: Best Practices for Inclusive UX](https://www.accessarmada.com/blog/designing-accessible-website-navigation-best-practices-for-inclusive-ux/)
 - [Designing and Coding for Voice](https://www.briandeconinck.com/designing-coding-voice/)
 - [Designing better target sizes](https://ishadeed.com/article/target-size/)
+- [🎥 Designing for Accessibility Right from the Start with Stéphanie Walter](https://www.youtube.com/watch?v=2juq00vrvl0)
 - [Designing for Reduced Motion](https://craftcms.com/blog/designing-for-reduced-motion)
 - [Designing for Web Accessibility in 60 Seconds](https://davidakennedy.com/blog/accessible-design-in-60-seconds/)
 - [Download the Atkinson Hyperlegible Font | Braille Institute](https://brailleinstitute.org/freefont?ref=sidebar)
