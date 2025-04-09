@@ -43,6 +43,7 @@
 - [Legal update: April 2024](https://convergeaccessibility.com/2024/04/29/legal-update-april-2024/)
 - [Legal update: January 2025](https://convergeaccessibility.com/2025/01/27/legal-update-january-2025/)
 - [Legal update: June 2024](https://convergeaccessibility.com/2024/07/01/legal-update-june-2024/)
+- [Legal update: March 2025](https://convergeaccessibility.com/2025/03/31/legal-update-march-2025/)
 - [Legal update: May 2024](https://convergeaccessibility.com/2024/06/03/legal-update-may-2024/)
 - [Legal update double issue: February - March 2024](https://convergeaccessibility.com/2024/04/01/legal-update-february-march-2024/)
 - [LEGAL UPDATE: FEBRUARY 2023](https://convergeaccessibility.com/2023/03/01/legal-update-february-2023/)
