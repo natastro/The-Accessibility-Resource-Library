@@ -1,5 +1,6 @@
 # Gaming
 
+- [Accessible Games Initiative](https://accessiblegames.com/)
 - [Can I Play That? - For Disabled Gamers, By Disabled Gamers](https://caniplaythat.com/)
 - [Designing Accessibility For Star Wars Jedi: Survivor](https://www.ea.com/games/starwars/jedi/jedi-survivor/news/designing-accessibility-for-star-wars-jedi-survivor)
 - [How accessibility experts started a revolution with The Last of Us](https://www.theloadout.com/the-last-of-us-remake/audio-description-revolution-descriptive-video-works)
