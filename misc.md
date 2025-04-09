@@ -74,6 +74,7 @@
 - [Prineville, Bend students make ADA-compliant covered wagons](https://ktvz.com/news/prineville/2022/11/25/prineville-bend-students-make-ada-compliant-covered-wagons/)
 - [Proposed Census Changes Would Drastically Undercount Disabled Americans](https://www.urban.org/urban-wire/proposed-census-changes-would-drastically-undercount-disabled-americans)
 - [Public Neurodiversity Support Center](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center?ck_subscriber_id=1030954750&utm_source=convertkit&utm_medium=email&utm_campaign=Business%20%26%20Ally%20Edition%20%2364%20-%207935565)
+- [🎥 Quick accessibility wins that are easy to implement](https://www.youtube.com/watch?v=pJ0GPI7BMIs)
 - [Quick and Small Accessibility](https://bite-sized-a11y.com/)
 - [Quick tip: Everyday Accessibility - The A11Y Project](https://www.a11yproject.com/posts/2021-06-14-everyday_accessibility/)
 - [React accessibility resources](https://brucelawson.co.uk/2022/react-accessibility-resources/)
