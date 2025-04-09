@@ -50,6 +50,7 @@
 - [Mobile Accessibility at W3C](https://www.w3.org/WAI/standards-guidelines/mobile/)
 - [Mobile Accessibility Barriers For Assistive Technology Users](https://www.smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/)
 - [Mobile Accessibility Tools: Camera Switches and More](https://equalentry.com/mobile-accessibility-tools-camera-switches/)
+- [Mobile App Accessibility: Best Practices for Inclusive Design](https://afixt.com/mobile-app-accessibility-best-practices-for-inclusive-design/)
 - [Mobile Tabs Part 2 – React Native](https://www.tpgi.com/mobile-tabs-part-2-react-native/)
 - [Mobile Tabs Part 3 – Flutter](https://www.tpgi.com/mobile-tabs-part-3-flutter/)
 - [Navigating Menus on Mobile: A Blind Diner's Accessibility Insights](https://blog.usablenet.com/navigating-menus-on-mobile-a-blind-diners-accessibility-insights)
