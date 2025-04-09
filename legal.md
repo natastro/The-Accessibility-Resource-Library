@@ -24,6 +24,7 @@
 - [Churches Don’t Have to Be Accessible. That’s Bad News for Voters.](https://www.motherjones.com/politics/2024/04/churches-polling-places-ada-inaccessible-disability-voting-rights/)
 - [Citing Trump order, Justice Department cuts disability guidance for businesses](https://www.usatoday.com/story/money/2025/03/20/trump-justice-department-eliminates-disability-guidance/82550992007/)
 - [Decoding Digital Accessibility Lawsuits 2023: Key Trends & Insights](https://blog.usablenet.com/decoding-digital-accessibility-lawsuits-in-2023-key-trends-strategic-insights)
+- [Digital Accessibility is a Civil Right](https://karlgroves.com/digital-accessibility-is-a-civil-right/)
 - [DOJ ISSUES FINAL TITLE II WEB ACCESSIBILITY RULE](https://convergeaccessibility.com/2024/04/08/final_title_ii_rule/)
 - [European Accessibility Act (EAA) – Kiosks, touch screens and physical devices](https://axesslab.com/ict-a11y-eu/)
 - [European Accessibility Act (EAA) – What you need to know](https://axesslab.com/european-accessibility-act-eaa-what-you-need-to-know/)
