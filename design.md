@@ -33,6 +33,7 @@
 - [Atkinson Hyperlegible Next Expands on Low Vision Accessibility](https://www.printmag.com/type-tuesday/atkinson-hyperlegible-next-applied-design/)
 - [Chasing rainbows](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
 - [Cognitive Accessibility Design Patterns](https://www.w3.org/WAI/WCAG2/supplemental/#cognitiveaccessibilityguidance)
+- [Color Contrast and Readability: The Cornerstones of Accessible Design](https://afixt.com/color-contrast-and-readability-the-cornerstones-of-accessible-design/)
 - [Color Safe - accessible web color combinations](http://colorsafe.co/)
 - [Color Theory and Contrast Ratios](https://www.24a11y.com/2019/color-theory-and-contrast-ratios/)
 - [Colorblind Accessibility Manifesto](https://colorblindaccessibilitymanifesto.com/)
