@@ -114,6 +114,7 @@
 - [Understanding Logical Focus Order | DevYarns](https://devyarns.com/logical-focus-order/)
 - [Understanding VPATs and ACRs: Key Insights](https://tarnoff.info/2024/10/14/understanding-vpats-and-acrs-key-insights/)
 - [Unique job site can help neurodivergent people find meaningful work — while being themselves](https://news.microsoft.com/features/unique-job-site-can-help-neurodivergent-people-find-meaningful-work-while-being-themselves/)
+- [Unlocking Accessibility: Information Architects share their approach to digital accessibility and design with people with disabilities](https://accessibility.blog.gov.uk/2025/05/09/unlocking-accessibility-information-architects-share-their-approach-to-digital-accessibility-and-design-with-people-with-disabilities/)
 - [Unlocking Accessibility: Key misconceptions, common issues, and tools used by Accessibility Specialists](https://accessibility.blog.gov.uk/2025/02/28/unlocking-accessibility-key-misconceptions-common-issues-and-tools-used-by-accessibility-specialists/)
 - [Using AI for Accessibility: Breaking Down Barriers in Content Creation?! — Moritz Gießmann, UX Engineer and Accessibility Expert from Karlsruhe, Germany.](https://moritzgiessmann.de/blog/posts/using-ai-for-accessibility/)
 - [Vision Accessibility on Apple Vision Pro](https://zmknox.com/2024/02/18/vision-accessibility-on-apple-vision-pro)
