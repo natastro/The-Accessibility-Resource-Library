@@ -42,6 +42,7 @@
 - [Creating A High-Contrast Design System With CSS Custom Properties](https://www.smashingmagazine.com/2023/01/creating-high-contrast-design-system-css-custom-properties/)
 - [Creating accessible digital colour palettes using the 60-30-10 design rule](https://www.visionaustralia.org/business-consulting/digital-access/Creating-accessible-digital-colour-palettes-60-30-10-design-rule)
 - [CSS-based Bar Chart](https://haltersweb.github.io/Accessibility/barchart.html)
+- [Design system annotations, part 1: How accessibility gets left out of components](https://github.blog/engineering/user-experience/design-system-annotations-part-1-how-accessibility-gets-left-out-of-components/)
 - [Design system breakdown: checkbox & radio](https://uxdesign.cc/design-system-breakdown-checkbox-radio-7d8a389b0e85)
 - [Designers, your excuse is gone. Stunning, animated and accessible. Yes, you can!](https://annebovelett.eu/designers-your-excuse-is-gone-stunning-animated-and-accessible-yes-you-can/)
 - [Designing Accessible Color Palettes in Figma: A Guide for Web Accessibility](https://knowbility.org/blog/2024/designing-accessible-color-palettes-in-figma-2024)
