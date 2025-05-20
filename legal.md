@@ -69,6 +69,7 @@
 - [The Effect of Donald Trump’s DEI Executive Order on Accessibility ](https://www.lflegal.com/2025/01/week-one-exec-order-deia/)
 - [The European Accessibility Act and Irish Law](https://equalentry.com/accessibility-act-europe-irish-law/)
 - [The European Accessibility Act for websites and apps](https://martijnhols.nl/blog/the-european-accessibility-act-for-websites-and-apps)
+- [The Impact of Accessibility Laws in Canada: A Critical Perspective](https://equalentry.com/accessibility-laws-impact-canada/)
 - [The Impact of Recent U.S. Federal Rulemaking on Web and Digital Accessibility](https://webaim.org/blog/impact-of-rulemaking/)
 - [The Law on Website and Mobile Accessibility Continues to Grow at a Glacial Pace Even as Lawsuit Numbers Reach All-Time Highs](https://www.americanbar.org/groups/law_practice/publications/law_practice_magazine/2022/jf22/vu-launey-egan/)
 - [Top Lawyers in 16 States Push Back on anti-DEIA Executive Orders](https://www.lflegal.com/2025/02/16-state-deia-memo/)
