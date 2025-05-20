@@ -11,6 +11,7 @@
 - [How To Make A Strong Case For Accessibility](https://www.smashingmagazine.com/2024/06/how-make-strong-case-accessibility/)
 - [Making A Strong Case For Accessibility — Smashing Magazine](https://www.smashingmagazine.com/2021/07/strong-case-for-accessibility/)
 - [Proving accessibility is worth it with analytics - Intuit Developer Community Blog](https://blogs.intuit.com/blog/2021/05/06/proving-accessibility-is-worth-it-with-analytics/)
+- [The 4 Motivations for Accessibility - The Big WHY?](https://www.nira11y.com/post/the-4-motivations-for-accessibility-the-big-why)
 - [The Book on Accessibility](https://www.thebookonaccessibility.com/)
 - [The business case for accessibility](https://tetralogical.com/blog/2022/04/05/business-case-for-accessibility/)
 - [The Role of Policy in Creating a Culture of Accessibility](https://www.microassist.com/digital-accessibility/key-elements-accessibility-policy/)
