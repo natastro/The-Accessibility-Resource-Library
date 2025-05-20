@@ -100,6 +100,7 @@
 - [Sa11y - accessibility quality assurance assistant - Ryerson University](https://ryersondmp.github.io/sa11y/)
 - [Screen reader, keyboard, and zoom testing](https://blog.pope.tech/2023/03/01/march-accessibility-focus-keyboard-and-screen-reader-testing/)
 - [Screen Reader Keyboard Shortcuts and Gestures (dequeuniversity.com)](https://dequeuniversity.com/screenreaders/)
+- [Testing Methods: Prerecorded Audio Description or Media Alternative](https://www.dennisdeacon.com/web/accessibility/testing-methods-prerecorded-audio-description-or-media-alternative/)
 - [Testing with speech recognition](https://www.tpgi.com/testing-with-speech-recognition/)
 - [The Accessibility Hat Trick: Getting Abbreviations Right](https://alistapart.com/article/hattrick/)
 - [The article element](https://heydonworks.com/article/the-article-element/)
