@@ -14,6 +14,7 @@
 - [Harnessing Copilot and other gen-AI tools to increase digital accessibility efficiency](https://matthewdeeprose.github.io/harnessCopilot.html)
 - [How artificial intelligence is helping ALS patients preserve their voices](https://www.cbsnews.com/news/artificial-intelligence-als-patients-preserve-voice-lou-gehrigs-disease/)
 - [I’m a Creative Director with Dyslexia, AI Takes My Creativity to Places I Never Imagined](https://www.printmag.com/creative-voices/im-a-creative-director-with-dyslexia-ai-takes-my-creativity-to-places-i-never-imagined/)
+- [Making an LLM/AI web app for GOV.UK prototyping](https://joelanman.com/posts/llm-ai-prototyping/)
 - [Microsoft Ability Summit 2025: Accessibility in the AI era](https://blogs.microsoft.com/blog/2025/03/18/microsoft-ability-summit-2025-accessibility-in-the-ai-era/)
 - [No, AI user research is not “better than nothing”—it’s much worse](https://scribe.rip/no-ai-user-research-is-not-better-than-nothing-its-much-worse-5add678ab9e7)
 - [Opportunities for AI in Accessibility](https://alistapart.com/article/opportunities-for-ai-in-accessibility/)
