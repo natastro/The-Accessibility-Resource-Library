@@ -112,6 +112,7 @@
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 - [The ultimate ADHD-friendly communication guide](https://fightingtalk.substack.com/p/adhd-friendly-communication-tips)
 - [There is no character limit for “alt text”](https://yatil.net/blog/there-is-no-character-limit-for-alt-text)
+- [Third-Party Solutions & Accessibility – A Primer](https://www.dennisdeacon.com/web/accessibility/third-party-solutions-accessibility-a-primer/)
 - [Three attributes for better web forms](https://adactio.com/journal/19842)
 - [Time for government to stop using Medium](https://govfresh.com/thoughts/government-civictech-medium)
 - [Types of Color Vision Deficiency](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness/types-color-vision-deficiency)
