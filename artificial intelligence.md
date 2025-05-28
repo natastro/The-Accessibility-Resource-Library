@@ -7,6 +7,7 @@
 - [Be careful when using generative artificial intelligence to produce code](https://cerovac.com/a11y/2024/09/be-careful-when-using-generative-artificial-intelligence-to-produce-code/)
 - [Blind internet users struggle with error-prone AI aids](https://www.ft.com/content/3c877c55-b698-43da-a222-8ae183f53078?accessToken=zwAGFX3gMd8gkc88h3xVtphD2tOiIorhg_UweA.MEQCIDGz2yMno2XYTXgK5QdPOjLiQHfD04k5XYFPQn_UjgVbAiAoxbj52bXBd5ilNPVdauz75AxGmDaH4-aufqYtw3CmPQ&sharetype=gift&token=66604dfe-fe8c-45e2-8ab3-901b8b00cc57)
 - [Can generative AI help write accessible code?](https://tetralogical.com/blog/2024/02/12/can-generative-ai-help-write-accessible-code/)
+- [ChatGPT Didn't Know About Crip Life — So I Changed That](https://volviergosum.substack.com/p/chatgpt-didnt-know-about-crip-life)
 - [Disability community has long wrestled with ‘helpful’ technologies – lessons for everyone in dealing with AI](https://theconversation.com/disability-community-has-long-wrestled-with-helpful-technologies-lessons-for-everyone-in-dealing-with-ai-227979)
 - [Disability Data Alarmingly Absent From AI Algorithmic Tools, Report Suggests](https://www.forbes.com/sites/gusalexiou/2024/08/06/disability-data-alarmingly-absent-from-ai-algorithmic-tools-report-suggests/)
 - [Dynamically adding text alternatives to images with AI](https://afixt.com/dynamically-adding-text-alternatives-to-images-with-ai/)
