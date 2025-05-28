@@ -54,6 +54,7 @@
 - [More common accessibility issues that you can fix today](https://hidde.blog/more-common-a11y-issues/)
 - [Morgan's Wonderland - The World's First Ultra-Accessible™ Theme Park](https://morganswonderland.org/)
 - [My Approach to Alt Text](https://adrianroselli.com/2024/05/my-approach-to-alt-text.html)
+- [My Request to Google on Accessibility](https://adrianroselli.com/2025/05/my-request-to-google-on-accessibility.html)
 - [My Thoughts on Accessibility of NFTs and Web3](https://a11ysavvy.com/2022/02/13/my-thoughts-on-accessibility-of-nfts-and-web3/)
 - [My Top 10 Take Aways from 2024 that Impacted Canadians with Disabilities](https://niewe.ca/my-top-10-take-aways-from-2024-that-impacted-canadians-with-disabilities)
 - [Navigating the Accessibility Challenges of LinkedIn Carousels](https://intopia.digital/articles/navigating-the-accessibility-challenges-of-linkedin-carousels/)
