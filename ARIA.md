@@ -2,6 +2,7 @@
 
 - [A Tangled Web of ARIA](https://dev.to/steady5063/a-tangled-web-of-aria-50nk)
 - [Accessible Description Exposure](https://adrianroselli.com/2022/04/accessible-description-exposure.html)
+- [ARIA Code Demos](https://codepen.io/collection/rBNWPv?cursor=eyJwYWdlIjozfQ==)
 - [ARIA in HTML | scottohara.me](https://www.scottohara.me/blog/2021/07/07/aria-in-html.html)
 - [aria-label is a letdown](https://wagtail.org/blog/aria-label-is-a-letdown/)
 - [aria-label requires a valid role](https://gomakethings.com/aria-label-requires-a-valid-role/)
