@@ -7,6 +7,7 @@
 
 ---
 
+- [3Play Media Releases Annual Study, Finds ASR Technology Showing Signs of Plateau](https://www.3playmedia.com/blog/2025-asr-report-release/)
 - [6 Questions for Eric Eggert](https://frontenddogma.com/posts/2025/6-questions-for-eric-eggert/)
 - [The A11Y Project: Home](https://a11yproject.com/)
 - [accessibility | Adrian Roselli](https://adrianroselli.com/tag/accessibility)
