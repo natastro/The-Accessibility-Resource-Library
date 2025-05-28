@@ -5,6 +5,7 @@
 ---
 
 
+- [3 Tools to Help Fix the Web’s Most Common WCAG 2.2 Failures ](https://spin.atomicobject.com/fix-common-wcag-2-failures/)
 - [A11y 101: 1.3.1 Info and Relationships](https://tarnoff.info/2025/01/13/a11y-101-1-3-1-info-and-relationships/)
 - [Alternative text in the wild: 5 alternative text examples](https://blog.pope.tech/2023/03/31/alternative-text-in-the-wild-5-alternative-text-examples/)
 - [An Alt Text Refresher For Software Developers | Built In](https://builtin.com/software-engineering-perspectives/alt-text-for-developers)
