@@ -5,6 +5,7 @@
 
 ---
 
+- [Accessibility vs. Usability in PDFs: What the Checker Doesn't Catch](https://coforma.io/perspectives/accessibility-vs-usability-in-pdfs-what-the-checker-doesn-t-catch)
 - [Creating Accessible and Tagged PDF Documents | Be Accessible](https://beaccessible.com/post/creating-accessible-and-tagged-pdf-documents/)
 - [Going with the PDF Reflow](https://www.tpgi.com/going-with-the-pdf-reflow/)
 - [How to check and fix PDF accessibility issues](https://blog.pope.tech/2024/04/25/how-to-check-and-fix-pdf-accessibility-issues/)
