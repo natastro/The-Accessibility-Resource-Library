@@ -29,6 +29,7 @@
 - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 - [Finding the Joy in Alt Text](https://bryn.codes/writing/the-joy-in-alt-text/)
 - [Fleeing the LA fires alone on a wheelchair: ‘I had to take my chances’](https://www.theguardian.com/us-news/2025/jan/10/fleeing-california-wildfires-los-angeles)
+- [Forbes' Accessibility 100 List 2025](https://www.forbes.com/lists/accessibility-100/)
 - [Harm reduction principles for digital accessibility practitioners ](https://ericwbailey.website/published/harm-reduction-principles-for-digital-accessibility-practitioners/)
 - [History’s Largest & Most Famous Disability Access Ramp](https://www.exurbe.com/historys-largest-most-famous-disability-access-ramp/)
 - [Hot in Here: Heat Waves, Climate Change, and Disability](https://a11ysavvy.com/2024/06/19/hot-in-here-heat-waves-climate-change-and-disability/)
