@@ -15,5 +15,6 @@
 - [The 4 Motivations for Accessibility - The Big WHY?](https://www.nira11y.com/post/the-4-motivations-for-accessibility-the-big-why)
 - [The Book on Accessibility](https://www.thebookonaccessibility.com/)
 - [The business case for accessibility](https://tetralogical.com/blog/2022/04/05/business-case-for-accessibility/)
+- [The Business Case for Digital Accessibility | WAI](https://www.w3.org/WAI/business-case/)
 - [The Role of Policy in Creating a Culture of Accessibility](https://www.microassist.com/digital-accessibility/key-elements-accessibility-policy/)
 - [Understanding the cost of not being accessible](https://karlgroves.com/understanding-the-cost-of-not-being-accessible/)
