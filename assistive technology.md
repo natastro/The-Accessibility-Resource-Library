@@ -46,6 +46,7 @@
 - [AT Is More Than Screen Readers](https://adrianroselli.com/2024/08/at-is-more-than-screen-readers.html)
 - [Baking Banana Bread With Assistive Technology](https://veroniiiica.com/baking-banana-bread-with-assistive-technology/)
 - [Be My Eyes](https://www.bemyeyes.com/)
+- [Cephable](https://cephable.com/)
 - [Challenge 2: Assistive Tech](https://hackaday.io/contest/190152-supplyframe-designlab-2023-hackaday-prize/log/216918-challenge-2-assistive-tech?mibextid=Zxz2cZ)
 - [Coding accessibility: Disability as catalyst for creativity](https://github.com/readme/featured/disability-creativity)
 - [Personal Voice on iPhone | The Lost Voice | Apple](https://www.youtube.com/watch?v=ra9I0HScTDw)
