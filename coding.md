@@ -1,5 +1,7 @@
 # Coding
 
+- [5 Things You Didn’t Know About the Viewport Meta Element · dxsrc](https://dxsrc.org/posts/2026/5-things-you-didnt-know-about-the-viewport-meta-element/) ![New](https://img.shields.io/badge/New-blue)
+- [19½ things you didn’t know about accessibility in HTML and CSS](https://noti.st/matuzo/OD53aV/slides?utm_medium=email&_hsenc=p2ANqtz-_BponsMPNyvIfpawLHp9VDeZbO9ZWnT_3l7YKuwFqpXOjTR5cHExCz0wdQHeI5A7Sd7nwXBONXw1hMajCzqg-i8NuDzg&_hsmi=443238461&utm_content=443238461&utm_source=hs_email) ![New](https://img.shields.io/badge/New-blue)
 - [2024: 0.5% of the Global Top 200 Websites Use Valid HTML](https://meiert.com/en/blog/html-conformance-2024/)
 - [A Developer’s Guide for Web Accessibility](https://scribe.rip/@askParamSingh/a-developers-guide-for-web-accessibility-6b85448cc7a0)
 - [Accessibility essentials every front-end developer should know](https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know)
@@ -10,7 +12,15 @@
 - [Can I include a tag to a tag? Based on HTML Spec WHATWG](https://caninclude.glitch.me/)
 - [contrast-color() is a good thing, but also solving the problem at the wrong layer](https://ericwbailey.website/published/contrast-color-is-a-good-thing-but-also-solving-the-problem-at-the-wrong-layer/)
 - [Don’t Wrap Figure in a Link](https://adrianroselli.com/2025/01/dont-wrap-figure-in-a-link.html)
+- [Focus rings with nested contrast-color()? - daverupert.com](https://daverupert.com/2026/01/nested-contrast-color-focus-rings/) ![New](https://img.shields.io/badge/New-blue)
 - [Foundations: grouping forms with fieldset and legend](https://tetralogical.com/blog/2025/01/31/foundations-fieldset-and-legend/)
+- [HTML Can Do That · Chris Burnell](https://chrisburnell.com/html-can-do-that/) ![New](https://img.shields.io/badge/New-blue)
 - [HTML Roving tabindex Attribute Explained with Examples](https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/)
 - [HTML semantics](https://gomakethings.com/html-semantics/)
+- [OZeWAI Ask the Professionals: Accessibility Deep Dive for Developers - YouTube](https://www.youtube.com/watch?v=fUlwpaKM940) ![New](https://img.shields.io/badge/New-blue)
+- [prefers-reduced-motion, explained (and how to test it) — MotionSpec](https://motionspec.dev/blog/prefers-reduced-motion) ![New](https://img.shields.io/badge/New-blue)
 - [Testing 10 JavaScript Frameworks on Their HTML Defaults](https://meiert.com/en/blog/javascript-framework-html-defaults/)
+- [The CSS caret-\* properties and custom caret accessibility](https://www.sarasoueidan.com/blog/caret-styling-accessibility/) ![New](https://img.shields.io/badge/New-blue)
+- [The HTML Details That Make Forms More Accessible · Ronalds Vilciņš](https://ronaldsvilcins.com/2026/10/12/the-html-details-that-make-forms-more-accessible/) ![New](https://img.shields.io/badge/New-blue)
+- [The three semantics of HTML - HTMHell](https://www.htmhell.dev/adventcalendar/2025/24/) ![New](https://img.shields.io/badge/New-blue)
+- [Using light-dark() without getting caught out – tempertemper](https://www.tempertemper.net/blog/using-light-dark-without-getting-caught-out) ![New](https://img.shields.io/badge/New-blue)
